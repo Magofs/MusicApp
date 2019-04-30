@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_height">150dp</dimen>
+    <dimen name="list_item_width">150dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="large_text">28sp</dimen>
+    <dimen name="marginBottom">20dp</dimen>
+    <dimen name="searchHeight">88dp</dimen>
+</resources>

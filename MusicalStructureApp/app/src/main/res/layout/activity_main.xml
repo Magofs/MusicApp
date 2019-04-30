@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="50dp"
+    android:background="@color/tan_background"
+    android:columnCount="2"
+    android:rowCount="2"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/sixties"
+        style="@style/MainTheme"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:background="@color/category_sixties"
+        android:gravity="center"
+        android:text="@string/sixty" />
+
+    <TextView
+        android:id="@+id/seventies"
+        style="@style/MainTheme"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:background="@color/category_seventies"
+        android:text="@string/seventy" />
+
+    <TextView
+        android:id="@+id/eighties"
+        style="@style/MainTheme"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:background="@color/category_eighties"
+        android:text="@string/eighty" />
+
+    <TextView
+        android:id="@+id/search"
+        style="@style/MainTheme"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:background="@color/category_search"
+        android:text="@string/search" />
+
+</GridLayout>
+

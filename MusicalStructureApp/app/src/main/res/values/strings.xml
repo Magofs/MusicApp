@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="search">Search</string>
+    <string name="seventy">70\'s</string>
+    <string name="eighty">80\'s</string>
+    <string name="sixty">60\'s</string>
+    <string name="main">Main</string>
+    <string name="back">Back to main screen</string>
+    <string name="find">Find your favorite </string>
+    <string name="findArtist">Type song here</string>
+    <string name="resultOne">Result here:</string>
+    <string name="query">Conduct Query</string>
+
+</resources>
